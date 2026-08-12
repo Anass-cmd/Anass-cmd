@@ -9,16 +9,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Anas.normal">
-    <img src="https://img.shields.io/badge/YouTube-Personal_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@tutorScofield">
-    <img src="https://img.shields.io/badge/YouTube-Calculus_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://t.me/anasheriif">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/anassheriif">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/966544017421">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -34,11 +34,11 @@ My goal is to become a **TeleCloud Engineer**, combining telecom infrastructure 
 * ☁️ Aspiring **TeleCloud Engineer**
 * 🐧 Passionate about **Linux & Open Source**
 * 🌐 Interested in **Computer Networks & Network Engineering**
-* 📡 Strong interest in **5G, Wireless Communications & Microwave**
+* 📡 Interested in **5G, Wireless Communications & Microwave**
 * ☁️ Exploring **Cloud Computing & AWS**
 * ⚙️ Interested in **Automation & Infrastructure**
 * 🔐 Exploring **Cybersecurity**
-* 💻 Programming with **Python**
+* 💻 Programming with **Python & Java**
 * ☸️ Interested in **Kubernetes & Cloud-Native Infrastructure**
 * 🎬 **Content Creator**
 * 📐 **Calculus Instructor**
@@ -46,7 +46,7 @@ My goal is to become a **TeleCloud Engineer**, combining telecom infrastructure 
 
 ---
 
-## 🎯 My Engineering Path
+## 🎯 Engineering Focus
 
 ```text
                  TELECOMMUNICATIONS
@@ -74,16 +74,15 @@ My long-term focus is to understand how **telecom networks can be designed, auto
 
 ---
 
-## 🏆 Certification Roadmap
+## 📚 Current Learning & Certification Goals
 
-I'm currently building toward:
-
-| Certification                              | Focus                     | Status      |
-| ------------------------------------------ | ------------------------- | ----------- |
-| 🌐 **CCNA**                                | Networking                | 🔄 Learning |
-| ☁️ **AWS Solutions Architect – Associate** | Cloud Architecture        | 🎯 Goal     |
-| ☸️ **CKA**                                 | Kubernetes Administration | 🎯 Goal     |
-| 📡 **HCIA 5G**                             | 5G & Telecom              | 🎯 Goal     |
+| Area                                       | Focus                           | Status                |
+| ------------------------------------------ | ------------------------------- | --------------------- |
+| 📡 **Telecom Basics**                      | Telecommunications Fundamentals | 🔄 Currently Learning |
+| 🌐 **CCNA**                                | Networking, Routing & Switching | 🎯 Goal               |
+| ☁️ **AWS Solutions Architect – Associate** | Cloud Architecture              | 🎯 Goal               |
+| ☸️ **CKA**                                 | Kubernetes Administration       | 🎯 Goal               |
+| 📡 **HCIA 5G**                             | 5G & Telecom Networks           | 🎯 Goal               |
 
 ---
 
@@ -97,13 +96,17 @@ I'm currently building toward:
 
 **Telecom Fundamentals • 5G • Wireless Communications • Microwave • Signal Processing • RF Concepts**
 
+---
+
 ### 🌐 Networking & Infrastructure
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes" />
 </p>
 
-**TCP/IP • Routing & Switching • VLANs • Subnetting • Network Security • Linux Networking • Containers • Kubernetes**
+**TCP/IP • Routing & Switching • VLANs • Subnetting • Network Troubleshooting • Linux Networking • Containers • Kubernetes**
+
+---
 
 ### ☁️ Cloud & DevOps
 
@@ -111,41 +114,45 @@ I'm currently building toward:
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
 </p>
 
-**AWS • Cloud Architecture • Containers • Kubernetes • Infrastructure • Automation • CI/CD**
+**AWS • Cloud Architecture • Cloud Networking • Containers • Kubernetes • Infrastructure • Automation • CI/CD**
 
-### 💻 Programming
+---
+
+### 💻 Programming & Automation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,git" />
 </p>
 
-**Python • Java • Bash • Automation • Scripting**
+**Python • Java • Bash • Scripting • Automation • Problem Solving**
 
-### 🔐 Security
+---
+
+### 🔐 Cybersecurity
 
 **Network Security • Linux Security • Cloud Security • Secure Infrastructure • Cybersecurity Fundamentals**
 
 ---
 
-## 📚 Teaching & Content Creation
+## 🎬 Content Creator
 
-### 🎬 Content Creator
-
-I create content around motivation, learning, gym, traveling, engineering, and topics I'm exploring throughout my journey.
+I create content around **technology, learning, engineering, and my journey as a Telecommunications Engineering student**.
 
 <p align="center">
   <a href="https://www.youtube.com/@Anas.normal">
-    <img src="https://img.shields.io/badge/🎥%20Personal%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎥%20Personal%20YouTube-Visit%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
-### 📐 Calculus Instructor
+---
 
-I also teach **Calculus**, helping students understand mathematical concepts through clear explanations and problem-solving.
+## 📐 Calculus Instructor
+
+I also teach **Calculus**, focusing on making mathematical concepts easier to understand through clear explanations and problem-solving.
 
 <p align="center">
   <a href="https://www.youtube.com/@tutorScofield">
-    <img src="https://img.shields.io/badge/📐%20Calculus%20YouTube-Learn%20Calculus-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/📐%20Calculus%20Channel-Learn%20Calculus-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -154,43 +161,52 @@ I also teach **Calculus**, helping students understand mathematical concepts thr
 ## 🔬 What I'm Currently Learning
 
 ```text
-🌐 CCNA
-   ├── Networking Fundamentals
+📡 TELECOM BASICS
+   ├── Telecommunications Fundamentals
+   ├── Communication Systems
+   ├── Transmission Concepts
+   ├── Wireless Communications
+   └── Network Fundamentals
+
+🌐 NETWORKING
+   ├── CCNA Topics
+   ├── TCP/IP
    ├── Routing & Switching
-   ├── IP Addressing
    ├── VLANs
+   ├── Subnetting
    └── Network Troubleshooting
 
-☁️ Cloud
+☁️ CLOUD
    ├── AWS
    ├── Cloud Networking
    ├── IAM
    ├── Compute
    └── Storage
 
-🐧 Linux
+🐧 LINUX
    ├── System Administration
-   ├── Networking
+   ├── Linux Networking
    ├── Bash
    └── Automation
 
-☸️ Cloud Native
+☸️ CLOUD NATIVE
    ├── Docker
    ├── Kubernetes
    └── Infrastructure Automation
 
-📡 Telecom
-   ├── 5G
-   ├── Microwave
+📡 5G & TELECOM
+   ├── 5G Architecture
+   ├── Radio Access Networks
+   ├── Core Networks
    ├── Wireless Communications
-   └── Network Architecture
+   └── Microwave
 ```
 
 ---
 
-## 💡 Projects I'm Interested In Building
+## 💡 Areas I Want to Build Projects In
 
-I'm especially interested in projects that combine my different areas of interest:
+I'm especially interested in projects that combine my different areas of engineering:
 
 * 📡 **5G Network Automation**
 * ☁️ **Cloud-based Telecom Infrastructure**
@@ -221,7 +237,7 @@ I'm especially interested in projects that combine my different areas of interes
 
 ---
 
-## 📈 My Engineering Philosophy
+## 📈 Engineering Philosophy
 
 > **Learn → Build → Break → Debug → Automate → Repeat.**
 
@@ -253,10 +269,10 @@ I believe the best way to learn engineering is not only by studying theory, but 
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</p>
+<a href="https://wa.me/966544017421">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-<p align="center">
-  📱 WhatsApp: +966 54 401 7421
 </p>
 
 ---
