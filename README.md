@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anas Sherif
+# Hi there! 👋 I'm Anas
 
 <h3 align="center">
   Telecommunications Engineering Student | TeleCloud Engineer | Content Creator | Calculus Instructor
@@ -56,18 +56,21 @@ My goal is to become a **TeleCloud Engineer**, combining telecom infrastructure 
          5G          Microwave     Networking
           │             │             │
           └─────────────┼─────────────┘
+                       CCNA
                         │
-                     Linux
+                  Cloud Computing
                         │
-                   Automation
+                       AWS
                         │
-                Cloud Computing
+                      Linux
                         │
-                      AWS
+                    Kubernetes
                         │
-                  Kubernetes
+                    Automation
                         │
-                  TeleCloud ☁️📡
+                      HCIA-5G
+                        |
+                   TeleCloud ☁️📡
 ```
 
 My long-term focus is to understand how **telecom networks can be designed, automated, secured, and integrated with cloud infrastructure**.
