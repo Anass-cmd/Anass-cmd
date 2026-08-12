@@ -131,7 +131,7 @@ I'm currently building toward:
 
 ### 🎬 Content Creator
 
-I create content around technology, learning, engineering, and topics I'm exploring throughout my journey.
+I create content around motivation, learning, gym, traveling, engineering, and topics I'm exploring throughout my journey.
 
 <p align="center">
   <a href="https://www.youtube.com/@Anas.normal">
