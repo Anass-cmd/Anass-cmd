@@ -1,120 +1,270 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! 👋 I'm Anas Sherif
+
+<h3 align="center">
+  Telecommunications Engineering Student | TeleCloud Engineer | Content Creator | Calculus Instructor
+</h3>
+
 <p align="center">
-  <a href="https://x.com/apoorv__tyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
+  <a href="https://www.linkedin.com/in/anas-sherif-7424ab252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/apoorvtyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
+  <a href="https://www.youtube.com/@Anas.normal">
+    <img src="https://img.shields.io/badge/YouTube-Personal_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="http://discord.com/users/apoorv#4040" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
+  <a href="https://www.youtube.com/@tutorScofield">
+    <img src="https://img.shields.io/badge/YouTube-Calculus_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.buymeacoffee.com/apoorvtyagi">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/buymeacoffee.svg" height="30" style="display:inline-block;" />
+  <a href="https://t.me/anasheriif">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anassheriif">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+---
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer working at PayPay 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write technical articles at [apoorvtyagi.tech](https://apoorvtyagi.tech/)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+## 🚀 About Me
+
+I'm **Anas Sherif**, a Telecommunications Engineering student passionate about building the bridge between **Telecommunications, Cloud Computing, Networking, Linux, and Automation**.
+
+My goal is to become a **TeleCloud Engineer**, combining telecom infrastructure with modern cloud-native technologies.
+
+* 📡 Telecommunications Engineering Student
+* ☁️ Aspiring **TeleCloud Engineer**
+* 🐧 Passionate about **Linux & Open Source**
+* 🌐 Interested in **Computer Networks & Network Engineering**
+* 📡 Strong interest in **5G, Wireless Communications & Microwave**
+* ☁️ Exploring **Cloud Computing & AWS**
+* ⚙️ Interested in **Automation & Infrastructure**
+* 🔐 Exploring **Cybersecurity**
+* 💻 Programming with **Python**
+* ☸️ Interested in **Kubernetes & Cloud-Native Infrastructure**
+* 🎬 **Content Creator**
+* 📐 **Calculus Instructor**
+* 🧠 Always learning, building, and experimenting
+
+---
+
+## 🎯 My Engineering Path
+
+```text
+                 TELECOMMUNICATIONS
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+         5G          Microwave     Networking
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                     Linux
+                        │
+                   Automation
+                        │
+                Cloud Computing
+                        │
+                      AWS
+                        │
+                  Kubernetes
+                        │
+                  TeleCloud ☁️📡
+```
+
+My long-term focus is to understand how **telecom networks can be designed, automated, secured, and integrated with cloud infrastructure**.
+
+---
+
+## 🏆 Certification Roadmap
+
+I'm currently building toward:
+
+| Certification                              | Focus                     | Status      |
+| ------------------------------------------ | ------------------------- | ----------- |
+| 🌐 **CCNA**                                | Networking                | 🔄 Learning |
+| ☁️ **AWS Solutions Architect – Associate** | Cloud Architecture        | 🎯 Goal     |
+| ☸️ **CKA**                                 | Kubernetes Administration | 🎯 Goal     |
+| 📡 **HCIA 5G**                             | 5G & Telecom              | 🎯 Goal     |
+
+---
+
+## 🛠️ Technologies & Interests
+
+### 📡 Telecommunications
 
 <p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,spring,nodejs,git,kubernetes,elasticsearch,azure,aws,docker,mysql,mongodb" />
-      </a>
+  <img src="https://skillicons.dev/icons?i=matlab" />
+</p>
+
+**Telecom Fundamentals • 5G • Wireless Communications • Microwave • Signal Processing • RF Concepts**
+
+### 🌐 Networking & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes" />
+</p>
+
+**TCP/IP • Routing & Switching • VLANs • Subnetting • Network Security • Linux Networking • Containers • Kubernetes**
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
+</p>
+
+**AWS • Cloud Architecture • Containers • Kubernetes • Infrastructure • Automation • CI/CD**
+
+### 💻 Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,bash" />
+</p>
+
+**Python • Java • Bash • Automation • Scripting**
+
+### 🔐 Security
+
+**Network Security • Linux Security • Cloud Security • Secure Infrastructure • Cybersecurity Fundamentals**
+
+---
+
+## 📚 Teaching & Content Creation
+
+### 🎬 Content Creator
+
+I create content around technology, learning, engineering, and topics I'm exploring throughout my journey.
+
+<p align="center">
+  <a href="https://www.youtube.com/@Anas.normal">
+    <img src="https://img.shields.io/badge/🎥%20Personal%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+### 📐 Calculus Instructor
+
+I also teach **Calculus**, helping students understand mathematical concepts through clear explanations and problem-solving.
+
+<p align="center">
+  <a href="https://www.youtube.com/@tutorScofield">
+    <img src="https://img.shields.io/badge/📐%20Calculus%20YouTube-Learn%20Calculus-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2051%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
+## 🔬 What I'm Currently Learning
 
 ```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+🌐 CCNA
+   ├── Networking Fundamentals
+   ├── Routing & Switching
+   ├── IP Addressing
+   ├── VLANs
+   └── Network Troubleshooting
+
+☁️ Cloud
+   ├── AWS
+   ├── Cloud Networking
+   ├── IAM
+   ├── Compute
+   └── Storage
+
+🐧 Linux
+   ├── System Administration
+   ├── Networking
+   ├── Bash
+   └── Automation
+
+☸️ Cloud Native
+   ├── Docker
+   ├── Kubernetes
+   └── Infrastructure Automation
+
+📡 Telecom
+   ├── 5G
+   ├── Microwave
+   ├── Wireless Communications
+   └── Network Architecture
 ```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 2 mins (78.55%)
-
-✍️ 652 lines written by AI, 134 lines written by hand (82.95% AI-written)
-
-🔤 22,469,712 Input Tokens, 344,090 Output Tokens
-
-💵 $131.81 Estimated AI Cost This Week
-
-🧠 24 AI Sessions, 90 AI Prompts
-
-GPT                      475 lines           █████████████░░░░░░░░░░░░   53.19 % 
-Opus                     418 lines           ████████████░░░░░░░░░░░░░   46.81 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 82.95% of written lines came from AI
-📄 Detailed Prompter — average 812 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.31% of changed lines were hand-edited
-```
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress:** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.11% as on ⏰ 12-Aug-2026
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles)
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-<!-- BLOG-POST-LIST:END -->
+## 💡 Projects I'm Interested In Building
 
-▶ [... view more](https://apoorvtyagi.tech/)
+I'm especially interested in projects that combine my different areas of interest:
+
+* 📡 **5G Network Automation**
+* ☁️ **Cloud-based Telecom Infrastructure**
+* 🌐 **Network Monitoring & Automation**
+* 🐧 **Linux-based Network Services**
+* 🔐 **Telecom & Cloud Security**
+* ☸️ **Kubernetes for Network Applications**
+* 📊 **Telecom Data Analysis with Python**
+* 📡 **5G / IoT Cloud Platforms**
+* ⚙️ **Network Configuration Automation**
+* 🛰️ **Microwave & Wireless Communication Projects**
 
 ---
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.</i>
-<!--ENDS_HERE_QUOTE_README-->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 My Engineering Philosophy
+
+> **Learn → Build → Break → Debug → Automate → Repeat.**
+
+I believe the best way to learn engineering is not only by studying theory, but by **building real systems, troubleshooting failures, and understanding what happens underneath the abstraction**.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anas-sherif-7424ab252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://www.youtube.com/@Anas.normal">
+  <img src="https://img.shields.io/badge/YouTube-Personal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@tutorScofield">
+  <img src="https://img.shields.io/badge/YouTube-Calculus-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://t.me/anasheriif">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/anassheriif">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  📱 WhatsApp: +966 54 401 7421
+</p>
+
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+<p align="center">
+  <b>📡 Telecommunications × ☁️ Cloud × 🐧 Linux × 🌐 Networking × ⚙️ Automation</b>
+</p>
 
+<p align="center">
+  <i>Building my way toward the future of Telecom & Cloud Engineering.</i>
+</p>
