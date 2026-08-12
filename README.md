@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=25&center=true&vCenter=true&width=800&lines=Telecommunications+Engineering+Student+📡;TelecoCloud+Engineer+☁️;Content+Creator;Calculus+Instructor+➗" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=25&center=true&vCenter=true&width=800&lines=Telecommunications+Engineering+Student+📡;TelecoCloud+Engineer+☁️;Content+Creator+📺;Calculus+Instructor+➗" />
 </p>
 </h3>
 
