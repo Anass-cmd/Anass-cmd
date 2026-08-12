@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Anas
 
 <h3 align="center">
-  Telecommunications Engineering Student | TeleCloud Engineer | Content Creator | Calculus Instructor
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=25&center=true&vCenter=true&width=800&lines=Telecommunications+Engineering+Student;TeleCloud+Engineer;Content+Creator;Calculus+Instructor" />
+</p>
 </h3>
 
 <p align="center">
