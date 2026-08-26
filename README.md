@@ -60,11 +60,11 @@ My goal is to become a **TeleCloud Engineer**, combining telecom infrastructure 
              └─────────────┼─────────────┘
                           CCNA
                            │
+                         Linux
+                           │
                     Cloud Computing
                            │
                           AWS
-                           │
-                         Linux
                            │
                        Kubernetes
                            │
